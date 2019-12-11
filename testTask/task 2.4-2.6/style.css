@@ -1,0 +1,14 @@
+#list{
+    width: 500px;
+}
+.container{
+    display: flex;
+}
+.list, .formBox{
+    flex:1;
+    padding: 10px;
+}
+#btn{
+    width: auto;
+    height: auto;
+}
