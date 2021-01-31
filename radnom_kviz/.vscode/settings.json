@@ -1,6 +1,0 @@
-{
-    "python.pythonPath": "c:\\Users\\zrg\\AppData\\Local\\Programs\\Python\\Python39\\pythonw.exe",
-    "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true,
-    "python.linting.banditEnabled": false
-}
