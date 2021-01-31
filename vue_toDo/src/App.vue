@@ -86,10 +86,10 @@ $size2: 12px;
 $size3: 18px;
 $size4: 24px;
 $size5: 48px;
-$backgroundColor: #27292d;
-$textColor: white;
-$primaryColor: #a0a4d9;
-$secondTextColor: #1f2023;
+$backgroundColor: #7d8aff;
+$textColor: #ee5e0be8;
+$primaryColor: #eceae973;
+$secondTextColor:#ee5e0be8;
 body {
 	margin: 0;
 	padding: 0;
@@ -104,6 +104,7 @@ body {
 		margin-right: auto;
 		padding: 20px;
 		h1 {
+			color: #ee5e0be8;
 			font-weight: bold;
 			font-size: 28px;
 			text-align: center;
@@ -129,7 +130,7 @@ body {
 				margin-bottom: $size2;
 			}
 			input {
-				background-color: transparent;
+				background-color: #eceae973;
 				border: $border;
 				color: inherit;
 			}
@@ -151,6 +152,7 @@ body {
 		ul {
 			padding: 10px;
 			li {
+				background-color: #eceae973;
 				display: flex;
 				justify-content: space-between;
 				align-items: center;

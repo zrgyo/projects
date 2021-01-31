@@ -1,7 +1,5 @@
 # ToDo App with Vue 3 Composition API
 
-> A simple ToDo application using Vue 3 Composition API.
-
 ## Project setup
 
 ```
@@ -20,12 +18,8 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
+### Lints and fixes
 
 ```
 npm run lint
 ```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
