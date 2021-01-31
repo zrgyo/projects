@@ -1,25 +1,19 @@
 # ToDo App with Vue 3 Composition API
 
-## Project setup
-
+## setup
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
-
+### compiles for development
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
+### compiles for production
 
 ```
 npm run build
 ```
-
-### Lints and fixes
-
+### Fixes
 ```
 npm run lint
 ```
